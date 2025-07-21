@@ -13,7 +13,7 @@ A fast-paced arcade game inspired by "Tomb of the Mask," built with Python and t
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/li-lay/SpeedUP_Maze.git
     ```
 2.  **Install the dependencies:**
     ```bash
@@ -58,8 +58,7 @@ A fast-paced arcade game inspired by "Tomb of the Mask," built with Python and t
 
 ## File Structure
 
-````
-
+```
 .SpeedUP_Maze/
 ├── game.py
 ├── resources/
@@ -72,7 +71,4 @@ A fast-paced arcade game inspired by "Tomb of the Mask," built with Python and t
 ├── level_selection.py
 ├── quit_confirmation.py
 └── game_level.py
-
 ```
-
-````
